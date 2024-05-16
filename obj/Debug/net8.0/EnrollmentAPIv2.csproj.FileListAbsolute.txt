@@ -61,3 +61,4 @@
 /home/alli/Desktop/0x0MAY16/EnrollmentAPIv2/obj/Debug/net8.0/EnrollmentAPIv2.pdb
 /home/alli/Desktop/0x0MAY16/EnrollmentAPIv2/obj/Debug/net8.0/EnrollmentAPIv2.genruntimeconfig.cache
 /home/alli/Desktop/0x0MAY16/EnrollmentAPIv2/obj/Debug/net8.0/ref/EnrollmentAPIv2.dll
+/home/alli/Desktop/0x0MAY16/EnrollmentAPIv2/obj/Debug/net8.0/EnrollmentAPIv2.sourcelink.json

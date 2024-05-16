@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xOq6ldrSxhQ=",
+  "dgSpecHash": "FYVSz6wAjRI=",
   "success": true,
   "projectFilePath": "/home/alli/Desktop/0x0MAY16/EnrollmentAPIv2/EnrollmentAPIv2.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,9 @@
     "/home/alli/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
     "/home/alli/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/home/alli/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
-    "/home/alli/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+    "/home/alli/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.5/microsoft.netcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.5/microsoft.aspnetcore.app.runtime.linux-x64.8.0.5.nupkg.sha512"
   ],
   "logs": []
 }
